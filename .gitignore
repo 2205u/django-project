@@ -1,0 +1,6 @@
+jango/
+mysite/.vscode/
+# Python
+*.pyc
+*~
+__pycache__
